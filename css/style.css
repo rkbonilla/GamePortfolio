@@ -1,0 +1,76 @@
+.section-heading,
+.section-description {
+    margin-bottom: 1.2rem;
+}
+
+.showcase-heading{
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.showcase-img {
+    position: relative;
+    max-width: 100%;
+    padding-top: 11rem;
+}
+
+.section-a {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section-a .fa {
+    font-size: 40px;
+    margin-bottom: .5rem;
+}
+
+.section-a h5{
+    margin-bottom: 0.3rem;
+}
+
+.section-b {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section-b .fa-solid {
+    font-size: 40px;
+    margin-bottom: .5rem;
+}
+
+table, tr, td, tbody{
+    border: none;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+
+th, thead{
+    border: none;
+}
+
+.section-c {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section-c .fa-regular {
+    font-size: 40px;
+    margin-bottom: .5rem;
+}
+
+ul, li{
+    margin: 0rem;
+    padding: 0rem;
+}
+
+.contact-link{
+    text-decoration: none;
+    color: darkblue;
+}
+
+@media(min-width:750px){
+    .showcase-heading{
+        font-size: 3.0rem;
+        padding-top: 11rem;
+    }
+}

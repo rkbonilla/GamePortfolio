@@ -30,3 +30,24 @@
 .section-a hf {
     margin-bottom: .3rem;
 }
+
+.section-a h5{
+    margin-bottom: 0.3rem;
+}
+
+.section-c{
+    background-image: url('../images/section_bg.jpg');
+    background-size: cover;
+    color: white;
+}
+
+.section-c .section-description{
+    margin-bottom: 4rem;
+}
+
+@media(min-width:750px){
+    .showcase-heading{
+        font-size: 3.0rem;
+        padding-top: 11rem;
+    }
+}

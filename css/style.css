@@ -65,7 +65,7 @@ ul, li{
 
 .contact-link{
     text-decoration: none;
-    color: darkblue;
+    color: #33C3F0;
 }
 
 @media(min-width:750px){
